@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Aladdin, kinda neet innit?!
+___
+![GitHub followers](https://img.shields.io/github/followers/siranxious?style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/siranxious?style=for-the-badge)
+
+![Kinda Potato](https://img.shields.io/badge/%F0%9F%A5%94-Potato-blue) Careful, Potato in progress!
+___
+- 🌱 I’m currently learning: everything under the sun, I love programming ♥
+- ⚡ Fun fact: my younger brother nickname is "watermelon" 🍉
+
 
 <!--
 **SirAnxious/SirAnxious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
