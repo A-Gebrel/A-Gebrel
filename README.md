@@ -16,7 +16,7 @@ ___
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/71/05/55/71055549244ad72f1c62f5d4c6d40e2f.png"  />
+<!-- <img align="right" height="150" src="https://i.pinimg.com/originals/71/05/55/71055549244ad72f1c62f5d4c6d40e2f.png"  /> -->
 
 ###
 
