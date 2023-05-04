@@ -2,7 +2,7 @@
 ___
 ![GitHub followers](https://img.shields.io/github/followers/siranxious?style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/siranxious?style=for-the-badge)
 
-![Kinda Potato](https://img.shields.io/badge/%F0%9F%A5%94-Potato-blue) ⚠ Caution ⚠ Potato in progress!
+![Kinda Potato](https://img.shields.io/badge/%F0%9F%A5%94-Potato-blue?style=for-the-badge) ⚠ Caution ⚠ Potato in progress!
 ___
 - 🌱 I’m currently learning: everything under the sun, I love programming ♥
 - ⚡ Fun fact: I'm not anti-social, it just takes me long to recharge my social-batteries
