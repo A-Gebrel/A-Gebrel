@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning NueJS<br>⚡ Fun fact I'm not anti-social, it just takes me long to recharge my social-batteries 😵</p>
+<p align="left">🌱 I’m currently learning .Net | Angular<br>⚡ Fun fact I'm not anti-social, it just takes me long to recharge my social-batteries 😵</p>
 
 ###
 
