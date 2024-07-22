@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-gebrel&label=Profile%20views&color=0e75b6&style=flat" alt="a-gebrel" /> </p>
 
-- 🌱 I’m currently learning **React & Java Spring Boot**
+- 🌱 I’m currently learning **Angular & .NET**
 
 - ⚡ Fun fact **I'm not anti-social, it just takes me long to recharge my social-batteries 😵**
 
